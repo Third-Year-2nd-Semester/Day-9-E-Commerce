@@ -1,8 +1,3 @@
-# Day-9-E-Commerce
-Certainly! Here's a concise and clear description you can add to your project repository (e.g., in a `README.md` or documentation file) to explain the purpose of the **`repository`** and **`service`** packages in your Spring Boot project:
-
----
-
 ### 📁 Repository Package (`repo`)
 
 The **repository package** contains interfaces that handle **data access operations**. These interfaces typically extend Spring Data JPA interfaces like `JpaRepository`, which allows you to:
